@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elkkia
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to be a full stack web developer
 - 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me mikael.bintang0201@gmail.com
 
